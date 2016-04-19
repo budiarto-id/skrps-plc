@@ -1,0 +1,8 @@
+http://www.iter.org/doc/www/content/com/lists/websitetext/attachments/94/sd10_v1_3.pdf
+Perintah dalam S7Prosim Activex Control
+-> Connect
+Perintah ini berfungsi untuk menghubungkan S7Prosim dengan aplikasi.
+http://www.howtogeek.com/162282/what-activex-controls-are-and-why-theyre-dangerous/
+https://scadahacker.com/library/Documents/ICS_Basics/Automation%20Direct%20-%20PLC%20Handbook.pdf
+Sejarah PLC
+Sebelum PLC digunakan di dunia otomasi industri, mesin-mesin industri dikendalikan menggunakan relay. 
